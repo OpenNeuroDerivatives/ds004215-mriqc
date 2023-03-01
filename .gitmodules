@@ -2,7 +2,7 @@
 	path = code/containers
 	url = https://github.com/ReproNim/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
-	datalad-url = https://github.com/ReproNim/containers.git
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/containers
 [submodule "code/tacc-openneuro"]
 	path = code/tacc-openneuro
 	url = https://github.com/poldracklab/tacc-openneuro.git
