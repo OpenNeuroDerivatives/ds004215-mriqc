@@ -1,0 +1,3 @@
+[ReproMan] pre-command...
+[ReproMan] executing command code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--22.0.6.sing sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004215-mriqc participant --participant-label 'ON97451' -w '/scratch1/03201/jbwexler/work_dir/mriqc/ds004215_sub-ON97451' -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds004215 --ica --mem_gb 30
+[ReproMan] ... within /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds004215-mriqc
